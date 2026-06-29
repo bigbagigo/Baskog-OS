@@ -1,0 +1,6 @@
+{
+  "name": "BASKOG",
+  "description": "Educational hypervisor operating system and policy governance dashboard for the DepEd Three-Term Year system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
